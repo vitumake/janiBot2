@@ -1,18 +1,18 @@
 {
-  "name": "janibot2",
-  "version": "0.0.1",
-  "description": "Yet another discord bot",
-  "main": "jani.js",
-  "scripts": {
-    "start": "tsc --watch"
-  },
-  "repository": {
-    "type": "git",
-    "url": "janibot"
-  },
-  "author": "vitumake",
-  "license": "ISC",
-  "devDependencies": {
-    "typescript": "^4.8.2"
-  }
+    "name": "janibot2",
+    "version": "0.0.1",
+    "description": "Yet another discord bot",
+    "main": "jani.js",
+    "scripts": {
+      "start": "tsc --watch"
+    },
+    "repository": {
+      "type": "git",
+      "url": "janibot"
+    },
+    "author": "vitumake",
+    "license": "ISC",
+    "devDependencies": {
+      "typescript": "^4.8.2"
+    }
 }
