@@ -4,7 +4,8 @@
     "description": "Yet another discord bot",
     "main": "jani.js",
     "scripts": {
-      "start": "tsc --watch"
+      "tscompile": "tsc --watch",
+      "start": "node dest/jani.js"
     },
     "repository": {
       "type": "git",
