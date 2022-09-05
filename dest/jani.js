@@ -1,2 +1,2 @@
 "use strict";
-console.log("hello world");
+const Discord = require('discord.js');
