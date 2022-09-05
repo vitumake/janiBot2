@@ -13,9 +13,6 @@
     },
     "author": "vitumake",
     "license": "ISC",
-    "devDependencies": {
-        "typescript": "^4.8.2"
-    },
     "dependencies": {
         "discord.js": "^14.3.0"
     }
