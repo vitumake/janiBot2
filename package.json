@@ -4,16 +4,19 @@
     "description": "Yet another discord bot",
     "main": "jani.js",
     "scripts": {
-      "tscompile": "tsc --watch",
-      "start": "node dest/jani.js"
+        "tscompile": "tsc --watch",
+        "start": "node dest/jani.js"
     },
     "repository": {
-      "type": "git",
-      "url": "janibot"
+        "type": "git",
+        "url": "janibot"
     },
     "author": "vitumake",
     "license": "ISC",
     "devDependencies": {
-      "typescript": "^4.8.2"
+        "typescript": "^4.8.2"
+    },
+    "dependencies": {
+        "discord.js": "^14.3.0"
     }
 }
