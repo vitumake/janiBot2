@@ -4,12 +4,15 @@
   "description": "Yet another discord bot",
   "main": "jani.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tsc --watch"
   },
   "repository": {
     "type": "git",
     "url": "janibot"
   },
   "author": "vitumake",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
 }
